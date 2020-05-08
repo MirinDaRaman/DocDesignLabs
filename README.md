@@ -19,5 +19,14 @@ InteliJ:
 http://localhost:8080/swagger-ui.html#/
 
 to open lab3
-Open CSV generator at WebStorm (or program which could read javascript, also could be extension)
+Open Client at WebStorm (or program which could read javascript, also could be extension)
 Open doc lab2 Spring at Intelij
+InteliJ:
+1) start project
+2) copy generated CSV 
+3) program automatically will make db and fill it
+
+WebStorm:
+1) delete file -lock.json 
+2) terminal -> npm install
+3) terminal -> npm start
